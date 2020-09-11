@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a Tree Beards Taphouse that gives the uswer to ability to order drinks, see details on the kegs, as well as add new kegs to the tap house.
 
-![UI-Layout](help-queue/src/assests/UILayout.png)
+![UI-Layout](src/assests/UI.jpg)
 
 
 
