@@ -19,6 +19,8 @@ function KegDetail(props){
   );
 }
 
+//show how the keg pints are affected in the details along with how many pints are used in the sale.
+
 KegDetail.propTypes = {
   keg: PropTypes.object,
   onClickingDelete: PropTypes.func,

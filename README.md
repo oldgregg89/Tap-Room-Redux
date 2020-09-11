@@ -1,7 +1,9 @@
 # Tap House
 
 ![Beer-Keg](https://media.giphy.com/media/3o7TKD5lJbcMRTFFZe/giphy.gif)
+
 #### _Tapp house UI made with react, 2020 ver 1.0.0_
+
 Git Hub: [Tap-House](https://github.com/oldgregg89/Tap-Room)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -86,6 +88,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Support and contact details
+
+Contact Ian Gregg: <iangregg188@gmail.com>
 
 ## License
 
