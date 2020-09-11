@@ -5,7 +5,9 @@
 [Tap-House](https://github.com/oldgregg89/Tap-Room)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Description
+## Description/Structure of Components 
+
+This is a Tree Beards Taphouse that 
 
 
 
