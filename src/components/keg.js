@@ -19,9 +19,10 @@ Keg.propTypes = {
   Type: PropTypes.string,
   Price: PropTypes.string.isRequired,
   Brewer: PropTypes.string,
-  // Pints: //pints left in the keg
+  PintsLeft: PropTypes.Number,
   id: PropTypes.string,
   whenKegClicked: PropTypes.func
+  onKegClick: 
 };
 
 export default Keg;

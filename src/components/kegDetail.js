@@ -8,8 +8,10 @@ function KegDetail(props){
   return (
     <React.Fragment>
       <h1>Keg Details</h1>
-      <h3>{keg.abv} - {keg.names} - {keg.details}</h3>
-      <p><em>{keg.type} - {keg.brewer}</em></p>
+      <h3>{keg.abv} - {keg.names} - {keg.price}</h3>
+      <p><em>{keg.type}</em></p>
+      <p><em>{keg.brewer}</em></p>
+      <p><em>{keg.pintsLeft}</em></p>
       <Button style={{margin: 10}} variant="success" onClick={ props.onClickingEdit }>Edit Keg</Button>
       <Button variant="danger" onClick={() => onClickingDelete(keg.id) }>Delete Keg</Button>
       <hr/>
