@@ -22,7 +22,7 @@ Keg.propTypes = {
   PintsLeft: PropTypes.Number,
   id: PropTypes.string,
   whenKegClicked: PropTypes.func
-  onKegClick: 
+  // onKegClick: 
 };
 
 export default Keg;

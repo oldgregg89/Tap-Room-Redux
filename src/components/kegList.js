@@ -14,7 +14,7 @@ function KegList(props){
         brewer={keg.brewer}
         price={keg.price}
         type={keg.type}
-        pintsLeft={keg.}
+        pintsLeft={keg.pintsLeft}
         id={keg.id}
         key={keg.key} />
       )}
@@ -25,7 +25,6 @@ function KegList(props){
 KegList.propTypes = {
   kegList: PropTypes.array,
   onKegSelection: PropTypes.func
-  onKegClick: 
 };
 
 
