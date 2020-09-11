@@ -3,6 +3,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+## Setup/Installation Requirements
+
+* to clone this content, copy the url provided by the `clone or download` button in GitHub
+* in command line use the command 'git clone (GitHub url)'
+* open the program in a code editor
+
 ## Available Scripts
 
 In the project directory, you can run:
