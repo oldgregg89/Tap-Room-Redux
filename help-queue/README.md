@@ -1,13 +1,15 @@
 # Tap House
 
-
+![Beer-Keg](https://media.giphy.com/media/3o7TKD5lJbcMRTFFZe/giphy.gif)
 #### _Tapp house UI made with react, 2020 ver 1.0.0_
 [Tap-House](https://github.com/oldgregg89/Tap-Room)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Description/Structure of Components 
 
-This is a Tree Beards Taphouse that 
+This is a Tree Beards Taphouse that gives the uswer to ability to order drinks, see details on the kegs, as well as add new kegs to the tap house.
+
+![UI-Layout](help-queue/assests/UILayout.png)
 
 
 
@@ -84,7 +86,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-## L
+## License
 
 Copyright (c) 2020 **_Ian Gregg_**
 
