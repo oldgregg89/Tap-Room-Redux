@@ -7,14 +7,14 @@ function NewKegForm(props){
 
   function handleNewKegFormSubmission(event) {
     event.preventDefault();
-    props.onNewKegCreation({ames: event.target.names.value, abv: event.target.abv.value, type: event.target.type.value, price: event.target.price.value, brewer: event.target.brewer.value, id: v4()});
+    props.onNewKegCreation({names: event.target.names.value, abv: event.target.abv.value, type: event.target.type.value, price: event.target.price.value, brewer: event.target.brewer.value, pintsleft: event.target.pintsleft.value, id: v4()});
   }
 
   return (
     <React.Fragment>
       <ReusableForm
       formSubmissionHandler={handleNewKegFormSubmission}
-      buttonText="Help!" />
+      buttonText="Add Keg!" />
     </React.Fragment>
   );
 }

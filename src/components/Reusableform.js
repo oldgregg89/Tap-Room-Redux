@@ -38,6 +38,12 @@ function ReusableForm(props) {
             name='brewer'
             placeholder='Brewer.' />
         </Form.Group>
+        <Form.Group>
+          <Form.Control
+            as='textarea'
+            name='Pints in Keg'
+            placeholder='PintsLeft.' />
+        </Form.Group>
         <div style={{padding: 10}}>
           <Button variant="info" type='submit'>{props.buttonText}</Button>
         </div>
