@@ -27,4 +27,6 @@ describe('kegReducer', () => {
       brewer: brewer,
       id: id
     };
+
+    expect(KegListReducer({}, action)).toEqual({
 }
