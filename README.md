@@ -1,10 +1,10 @@
-# Tap House
+# Tap House Redux
 
 ![Beer-Keg](https://media.giphy.com/media/3o7TKD5lJbcMRTFFZe/giphy.gif)
 
 #### _Tapp house UI made with react, 2020 ver 1.0.0_
 
-Git Hub: [Tap-House](https://github.com/oldgregg89/Tap-Room)
+Git Hub: [Tap-House-Redux](https://github.com/oldgregg89/Tap-Room-Redux)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
