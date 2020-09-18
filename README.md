@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description/Structure of Components 
 
-This is a Tree Beards Taphouse that gives the uswer to ability to order drinks, see details on the kegs, as well as add new kegs to the tap house.
+This is a Tree Beards Taphouse that gives the uswer to ability to order drinks, see details on the kegs, as well as add new kegs to the tap house. This will work through the redux testing portion of practice.
 
 ![UI-Layout](src/assests/UI.jpg)
 
@@ -23,6 +23,7 @@ This is a Tree Beards Taphouse that gives the uswer to ability to order drinks, 
 * open the program in a code editor
 * run `npm install`
 * then run `npm run start`
+* run `npm test` to run testing
 
 ## Available Scripts
 
