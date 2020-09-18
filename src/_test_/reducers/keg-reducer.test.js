@@ -29,4 +29,14 @@ describe('kegReducer', () => {
     };
 
     expect(KegListReducer({}, action)).toEqual({
-}
+      [id] : {
+        name: name,
+        abv: abv,
+        type: type,
+        price: price,
+        brewer: brewer,
+        id: id
+      }
+    });
+  });
+});
