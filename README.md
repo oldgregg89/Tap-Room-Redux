@@ -21,6 +21,8 @@ This is a Tree Beards Taphouse that gives the uswer to ability to order drinks, 
 * to clone this content, copy the url provided by the `clone or download` button in GitHub
 * in command line use the command 'git clone (GitHub url)'
 * open the program in a code editor
+* run `npm install`
+* then run `npm run start`
 
 ## Available Scripts
 
