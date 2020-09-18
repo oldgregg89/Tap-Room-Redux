@@ -1,0 +1,1 @@
+import kegReducer from '../../reducers/keg-reducer';
